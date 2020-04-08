@@ -11,11 +11,16 @@ introduces meaning to the web page rather than just presentation.
     top of a page and should only be used once.
     5. Name two tags that have required attributes
     An img element and "a" for href.
-    6. What do we put in the head of our HTML document? 
+    6. What do we put in the head of our HTML document?
+     You put a title and style.
     7. What is an id? 
+    An id is an attribute that is used to specify an HTML element.
     8. What elements can I add an id to? 
+    id can be used on any HTML element.
     9. How many times can I use the same id on a page? 
+    id can only be used once.
     10. What is a class? 
+    A class is an attribute used to style elements equally within the same class.
     11. What elements can I add a class to? 
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
