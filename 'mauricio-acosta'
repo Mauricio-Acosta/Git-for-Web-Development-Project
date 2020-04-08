@@ -46,21 +46,42 @@ introduces meaning to the web page rather than just presentation.
     21. How do we select a p element with a single class of “human””?
     You use .human p{}
     22. What is a parent child selector? When would this be useful? 
+        A parent child selector selects all elements that are a direct child of the specified element.
+        It is useful when trying to change specific or all elements within a parent or child.
     23. How do you select all links within a div with the class of sidebar?
+        .sidebar a:link {}
     24. What is a pseudo selector?
+        It specifies the state of an element. For example, :hover
     25. What do we use the change the spacing between lines?
+        line-height
     26. What do we use to change the spacing between letters?
+        letter-spacing
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+        * {text-transform}
     28. How do I add a 1px border around my div that is dotted and black?
+        using border-style: dotted; and border-color: black;
     29. How do I select everything on the page? 
+        *
     30. How do I write a comment in CSS?
+        Putting your comment in between /* */
     31. How do I find out what file I am in, when I am using the command line? 
+        You use pwd
     32. Using the command line - how do I see a list of files/folders in my current folder?
+    You use ls
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    You use rm 'file_name'. You have to be careful because it deletes a file forever and you cant get it back
     34. Why should I use version control? 
+    It helps track changes and makes collaborations easy.
     35. How often should I commit to github?
+    Whenever you make a changes.
     36. What is the command we would use to push our repo up to github? 
+    git push -u origin branch name
     37. Walk me through Lambda's git flow. 
+    First you fork the master repo, then you set your TL as a collaborator,
+    then clone the repo and use "cd" to go to the directory where you want to
+    clone the repo, then create a branch. You have to remeber to always save changes
+    using -git add .-  
+
 
 Stretch Questions
 
