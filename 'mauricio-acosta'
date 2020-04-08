@@ -22,16 +22,29 @@ introduces meaning to the web page rather than just presentation.
     10. What is a class? 
     A class is an attribute used to style elements equally within the same class.
     11. What elements can I add a class to? 
+    Any HTML element can be added to a class.
     12. How many times can I use the same class on a page? 
+    There is no limit on how many of the same classes could be used on a page.
     13. How do I get my link to open in a new tab?
+    You use target="_blank"
     14. What is the alt attribute used for? 
+    The alt attribute is used to descibre an image for screen readers.
     15. How do I reference an id?
+    You reference an id using "#"
     16. What is the difference between a section and a div
+    A section groups the content inside as related while a div groups content without a specific meaning.
     17. What is CSS used for? 
+    CSS is used to arrange and stylize your page.
     18. How to we select an element? Example - every h2 on the page
+    You select an element by using the elements name. For example, to reference
+    every h3, you type h3 to select all h3 elements.
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    The difference between class and id is that class can be applied to any 
+    HTML element while id can only be used by one element.
     20. How do we select classes in CSS?
+    In CSS to select a class you use "." before the class name.
     21. How do we select a p element with a single class of “human””?
+    You use .human p{}
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
